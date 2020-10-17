@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Hobbies</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>VEER</h1>
+    <p>I  am in grade 8 in - school , my interesets are playing cricket , playing indoor games , i need recently started coding and it is </p>
+    <ol>
+        <li>Video Games </li>
+        <img src="https://images.unsplash.com/photo-1593118247619-e2d6f056869e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80" alt="video game image ">
+        <li>I love playing cricket </li>
+        <img src="https://images.unsplash.com/photo-1593341646782-e0b495cff86d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=60" alt="cricket image ">
+        
+    </ol>
+    <p>Developed by VEER ZORAWAR </p>
+</body>
+</html>
